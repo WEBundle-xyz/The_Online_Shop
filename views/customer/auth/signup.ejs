@@ -6,7 +6,7 @@
   <%- include('../includes/header')%>
 <main>
   <h1>Create New Account</h1>
-  <form action="" method="">
+  <form action="/signup" method="POST">
 <p>
   <label for="email">E-mail</label>
   <input type="email" id="email" name="email" required/>
@@ -16,7 +16,7 @@
   <input type="email" id="confirm-email" name="confirm-email" required/>
 </p>
 <p>
-  <label for="password">Confirm email</label>
+  <label for="password">Password</label>
   <input type="password" id="password" name="password" minlength="6" required/>
 </p>
 <hr>
