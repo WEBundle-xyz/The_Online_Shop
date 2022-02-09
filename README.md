@@ -12,6 +12,14 @@
 
 [5 - Successfully connected to the database ](../../tree/6b19915edd3b25a0c718e4fb24bdee97309a3be4/)
 
-[6 - Empty ](../../tree//)
+[6 - Adding users signup to the database ](../../tree/b8c20dac5bd368a4a4e5f0cfc7ea81a152c242c6/)
 
 [7 - Empty ](../../tree//)
+
+[8 - Empty ](../../tree//)
+
+[9 - Empty ](../../tree//)
+
+[10 - Empty ](../../tree//)
+
+[11 - Empty ](../../tree//)

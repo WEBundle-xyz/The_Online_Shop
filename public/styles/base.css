@@ -51,6 +51,10 @@ main {
   margin: 0 auto;
 }
 
+.company {
+  margin: 1rem;
+}
+
 ul, 
 ol {
   list-style: none;
