@@ -12,11 +12,11 @@
 
 [5 - Successfully connected to the database ](../../tree/6b19915edd3b25a0c718e4fb24bdee97309a3be4/)
 
-[6 - Adding users signup to the database ](../../tree/b8c20dac5bd368a4a4e5f0cfc7ea81a152c242c6/)
+[6 - Users sign-up and the database ](../../tree/b8c20dac5bd368a4a4e5f0cfc7ea81a152c242c6/)
 
 [7 - Added csrf protection ](../../tree/d345d4867064bf6301d53dde4ffbefa303bbebe8/)
 
-[8 - Empty ](../../tree//)
+[8 - Added sessions ](../../tree/b1343c7c194a5d7b949c98a70179de9eb5ed4c2f/)
 
 [9 - Empty ](../../tree//)
 
