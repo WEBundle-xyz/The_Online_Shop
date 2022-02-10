@@ -20,7 +20,7 @@
 
 [9 - User login-logout button functionality ](../../tree/7b7ae81aef6a217eed7e10db6361284401d2c25e/)
 
-[10 - Error messages and user input ](../../tree/7b5254080f20d54295a885701886ead42926afdc/)
+[10 - Displaying error messages ](../../tree/f190ec168840c034e701abcf8f2cf7b80199bc7b/)
 
 [11 - Empty ](../../tree//)
 

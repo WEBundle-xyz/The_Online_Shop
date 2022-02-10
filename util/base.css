@@ -39,7 +39,6 @@ html {
   --shadow-medium: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 
-
 body {
   background-color: var(--color-gray-500);
   color: var(--color-gray-100);
@@ -50,6 +49,10 @@ main {
   width: 90%;
   max-width: 50rem;
   margin: 0 auto;
+}
+
+.company {
+  margin: 1rem;
 }
 
 ul, 
@@ -78,21 +81,4 @@ a {
 .btn:active {
   background-color: var(--color-primary-700);
   border-color: var(--color-primary-700);
-}
-
-.alert {
-  border-radius: var(--border-radius-small);
-  background-color: var(--color-error-100);
-  color: var(--color-error-500);
-  padding: var(--space-4);
-}
-
-.alert h2 {
-  font-size: 1rem;
-  margin: var(--space-2) 0;
-  text-transform: uppercase;
-}
-
-.alert p {
-  margin: var(--space-2) 0;
 }
