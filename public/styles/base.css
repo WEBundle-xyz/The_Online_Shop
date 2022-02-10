@@ -3,7 +3,7 @@
 }
 
 html {
-  font-family: 'Montserrat', 'sans-serif';
+  font-family: "Montserrat", "sans-serif";
 
   --color-gray-50: #cfd8dc;
   --color-gray-100: #b0bec5;
@@ -17,7 +17,7 @@ html {
   --color-primary-100: #ffe0b2;
   --color-primary-200: #ffcc80;
   --color-primary-400: #ffb74d;
-  --color-primary-500: #ffa726;
+  --color-primary-500:#ffa726;
   --color-primary-700: #ff9800;
   --color-primary-200-contrast: #795548;
   --color-primary-500-contrast: white;
@@ -55,7 +55,7 @@ main {
   margin: 1rem;
 }
 
-ul,
+ul, 
 ol {
   list-style: none;
   margin: 0;
